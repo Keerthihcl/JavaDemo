@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("welcome to maven");
+        System.out.println("java file edited and updated");
+        
     }
 }
